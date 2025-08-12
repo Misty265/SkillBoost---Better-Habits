@@ -18,9 +18,11 @@ It was developed as part of the **TripleTen Software Engineering Code Jam – Au
 
 It starts with a simple truth: we want better habits, but real life keeps interrupting. Lists help for a week, then fade.
 
-**SkillBoost** was built to change that. Developed with a **vanilla stack** — HTML, CSS, and JavaScript on the frontend, Node.js powering the backend calls to **Google’s Gemini AI** — it learns how you live and adapts to you. Gemini shapes routines that fit your goals, analyzes your progress, and even turns your plan into custom motivational podcasts you can take on the go.
+**[SkillBoost](https://seroujk.github.io/SkillBoost---Better-Habits/)** was built to change that. Developed with a **vanilla stack** — HTML, CSS, and JavaScript on the frontend, Node.js powering the backend calls to **Google’s Gemini AI** — it learns how you live and adapts to you. Gemini shapes routines that fit your goals.
 
 Open-source, distraction-free, and focused on what matters: steady progress, one habit at a time.
+
+Deployment: https://seroujk.github.io/SkillBoost---Better-Habits/
 
 ## Team
 
@@ -39,13 +41,16 @@ SkillBoost is a dynamic website dedicated to productivity and habit formation, f
 =======
 ## Features
 
-- **AI-Enhanced Habit Templates** – Morning routines, wellness, study, and time management tailored by Gemini AI.
-- **Smart Recommendations** – Habit analysis and actionable adjustments as you progress.
-- **Motivational Podcast Generation** – Personalized audio created from your goals and habit data (Still being implemented).
+- **AI-Enhanced Habit Templates** – Morning routines, wellness, and study habits, tailored by Gemini AI.
+- **Habit Tracking** – Track your progress weeky by week with responsive tracking cards.
 - **Fully Responsive** – Seamless experience on mobile, tablet, and desktop.
 - **Clean CSS Architecture** – Follows BEM principles for clarity and maintainability.
 - **Open Source** – Free and community-driven.
 >>>>>>> adc2c0017256243f4214fbf350701a1c48d02f5d
+
+## Future Implementations
+
+- **Motivational Podcast Generation** – Personalized audio created from your goals and habit data (Still being implemented).
 
 ## License
 

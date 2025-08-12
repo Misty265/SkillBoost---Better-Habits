@@ -1,3 +1,9 @@
+.header {
+  background-color: #ebf2ff;
+  padding-bottom: 20px;
+  min-width: 370px;
+}
+
 .heading__section {
   display: flex;
   flex-direction: column;
@@ -28,6 +34,7 @@
   flex-direction: column;
 }
 
+
 @media screen and (max-width: 950px) {
   .heading__section {
     align-items: center;
@@ -35,6 +42,7 @@
   }
 
   .heading__title {
+    padding: 20px;
     font-size: 4rem;
   }
 
@@ -43,18 +51,17 @@
   }
 
   .heading__paragraph {
-    font-size: 1.2rem;
-    padding: 20px;
+    font-size: 2rem;
   }
 }
 
 @media screen and (max-width: 417px) {
   .heading__title {
-    font-size: 4rem;
+    font-size: 1.2rem;
   }
 
   .heading__span {
-    font-size: 4rem;
+    font-size: 1rem;
   }
 
   .heading__paragraph {

@@ -45,6 +45,7 @@
   color: white;
   font-family: "Geist", Arial, Helvetica, sans-serif;
   font-weight: 500;
+  font-size: 20px;
   padding: 8px 40px;
   cursor: pointer;
   transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.2s;
@@ -54,7 +55,7 @@
 .hero__button-icon {
   display: inline-block;
   background-color: transparent;
-  background-image: url(../images/hero/arrow.svg);
+  background-image: url(../../../../images/hero/arrow.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 80%;
@@ -103,16 +104,16 @@
 }
 
 .hero__stat-icon--gemini {
-  background-image: url(../images/hero/gemini.svg);
+  background-image: url(../../../../images/hero/gemini.svg);
   background-size: 50%;
 }
 
 .hero__stat-icon--increase {
-  background-image: url(../images/hero/increase.svg);
+  background-image: url(../../../../images/hero/increase.svg);
 }
 
 .hero__stat-icon--code {
-  background-image: url(../images/hero/code.svg);
+  background-image: url(../../../../images/hero/code.svg);
 }
 
 .hero__stat-metric {
